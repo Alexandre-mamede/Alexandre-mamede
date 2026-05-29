@@ -1,3 +1,4 @@
+#include <stdio.h>
 typedef struct {
    char nome[101];
    char codigoBarras[13];
