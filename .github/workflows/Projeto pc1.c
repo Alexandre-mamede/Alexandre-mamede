@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 typedef struct {
    char nome[101];
    char codigoBarras[13];
@@ -11,3 +12,17 @@ typedef struct {
    float valorUnitario;
 } Produto;
 
+typedef struct {
+   char nome[51];
+   char cep[10];
+   char endereco[51];
+   char telefone[20];
+   float capacidade_Maxima;
+   float estoque_Atual;
+   Produto produtos[100];
+   int total_Produtos;
+} Deposito;
+int main(){
+
+
+}
