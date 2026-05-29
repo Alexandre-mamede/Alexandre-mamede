@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <string.h>
+#include <time.h>
+
 typedef struct {
    char nome[101];
    char codigoBarras[13];
@@ -22,7 +24,10 @@ typedef struct {
    Produto produtos[100];
    int total_Produtos;
 } Deposito;
+
 int main(){
+
+   printf("menu")
 
 
 }
