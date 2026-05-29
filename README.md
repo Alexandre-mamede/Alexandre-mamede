@@ -5,7 +5,6 @@
   <p align="center">
   <img src="asset/baner.png" alt="Banner Alexandre Mamede" width="100%">
 </p>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-mamede&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
