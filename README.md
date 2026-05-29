@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/Alexandre-mamede">
   <p align="center">
-  <img src="./assets/banner.png" alt="Banner Alexandre Mamede" width="100%">
+  <img src="asset/baner.png" alt="Banner Alexandre Mamede" width="100%">
 </p>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-mamede&layout=compact&langs_count=6&theme=tokyonight"/>
 
