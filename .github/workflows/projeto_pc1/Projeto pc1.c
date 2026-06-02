@@ -2,6 +2,7 @@
 #include <string.h>
 #include <time.h>
 #include <struct.c>
+
 int main(){
    
 int select;
@@ -25,8 +26,15 @@ int select;
             printf("6. Voltar ao menu principal\n");
             break;
         case 2:
-        
-        
+            printf("Menu Deposito");
+            printf("1. Nome do Depósito");
+            printf("2. CEP");
+            printf("3. Endereço");
+            printf("4. Telefone");
+            printf("5. Capacidade máxima");
+            printf("6. Voltar ao menu Depósito");
+            break;
+       case 3:
     }
     return 0;
 }
