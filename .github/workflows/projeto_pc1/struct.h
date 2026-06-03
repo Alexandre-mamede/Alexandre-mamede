@@ -7,8 +7,8 @@ typedef struct {
    char data_Validade[11];
    float volume;
    int quantidade_itens;
-   float valorUnitario;
-} Produto;
+   float valor_Unitario;
+} produto;
 
 typedef struct {
    char nome[51];
@@ -17,6 +17,6 @@ typedef struct {
    char telefone[20];
    float capacidade_Maxima;
    float estoque_Atual;
-   Produto produtos[100];
+   produto produtos[100];
    int total_Produtos;
 } Deposito;
