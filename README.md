@@ -11,7 +11,7 @@
 ║                                                              ║
 ║                      ALEXANDRE MAMEDE                        ║
 ║                                                              ║
-║              DEVELOPER • BUILDER • LEARNER                  ║
+║              DEVELOPER • BUILDER • LEARNER                   ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 </pre>
@@ -52,7 +52,7 @@
 │ ├─ Backend                           │
 │ ├─ Databases                         │
 │ ├─ Algorithms                        │
-│ └─ Artificial Intelligence            │
+│ └─ Artificial Intelligence           │
 └──────────────────────────────────────┘
 </pre>
 
@@ -256,19 +256,23 @@ Optimization
 
 <br>
 
-<a href="https://github.com/Alexandre-mamede">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Alexandre-mamede&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Alexandre-mamede&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
-<a href="https://github.com/Alexandre-mamede">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-mamede&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-mamede&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
+<br><br>
+
+<h3>🔥 CONTRIBUTION STREAK</h3>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandre-mamede&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
