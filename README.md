@@ -221,11 +221,23 @@ Optimization
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandre-mamede&show_icons=true&theme=tokyonight)
+<a href="https://github.com/Alexandre-mamede">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Alexandre-mamede&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-mamede&layout=compact&theme=tokyonight)
+<a href="https://github.com/Alexandre-mamede">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-mamede&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</a>
 
 </div>
+
+<br>
 
 <!-- SAVE POINT -->
 
