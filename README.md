@@ -213,27 +213,17 @@ Modeling
 Optimization
 
 </td> </tr> </table> </div> <br> <div align="center">
+  
+  <!-- PLAYER STATISTICS -->
 <div align="center">
 
 <h2>📊 PLAYER STATISTICS</h2>
 
 <br>
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Alexandre-mamede&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alexandre-mamede&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-mamede&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandre-mamede&theme=tokyonight&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-mamede&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
