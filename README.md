@@ -272,7 +272,7 @@ Optimization
 ║                                                              ║
 ║                    PLAYER STATUS: ONLINE                     ║
 ║                                                              ║
-║                  CODE • BUILD • LEARN                        ║
+║                    CODE • BUILD • LEARN                      ║
 ║                                                              ║
 ║                     [ GAME SAVED ✓ ]                         ║
 ║                                                              ║
