@@ -221,7 +221,7 @@ Optimization
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Alexandre-mamede&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=Alexandre-mamede&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
 />
 
 <img
@@ -229,27 +229,15 @@ Optimization
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-mamede&layout=compact&theme=tokyonight&hide_border=true"
 />
 
-</div>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandre-mamede&theme=tokyonight&hide_border=true"/> </div> <br> <div align="center">
-<!-- ACTIVITY MAP -->
-
-<div align="center">
-
-<h2>🗺️ ACTIVITY MAP</h2>
-
-<br>
+<br><br>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-mamede&bg_color=05070D&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
-  width="95%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandre-mamede&theme=tokyonight&hide_border=true"
 />
 
 </div>
 
-<br><br>
+<br>
 
 <!-- SAVE POINT -->
 
