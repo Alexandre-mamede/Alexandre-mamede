@@ -23,7 +23,6 @@
 
 ## 🎮 CHARACTER INFO
 
-```text
 CLASS
 └─ Software Developer
 
@@ -193,4 +192,4 @@ Optimization
 
 ALEXANDRE MAMEDE • COMPUTER SCIENCE • 2026
 
-</div> ```
+</div> 
