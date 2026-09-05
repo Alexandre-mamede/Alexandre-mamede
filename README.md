@@ -196,14 +196,53 @@ Optimization
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandre-mamede&theme=tokyonight&hide_border=true"/> </div> <br> <div align="center">
-🗺️ ACTIVITY MAP
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-mamede&bg_color=05070D&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div> <br> <div align="center">
-💾 SAVE POINT
-<a href="https://github.com/Alexandre-mamede"> <img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/> </a> <a href="mailto:amamedepatrocinio@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/> </a>
+<!-- ACTIVITY MAP -->
+
+<div align="center">
+
+<h2>🗺️ ACTIVITY MAP</h2>
+
+<br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-mamede&bg_color=05070D&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+  width="95%"
+/>
+
+</div>
 
 <br><br>
 
+<!-- SAVE POINT -->
+
 <div align="center">
+
+<h2>💾 SAVE POINT</h2>
+
+<br>
+
+<a href="https://github.com/Alexandre-mamede">
+  <img
+    src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/alexandre-patrocinio-31a7982ba/">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:amamedepatrocinio@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=8B5CF6"
+    alt="Email"
+  />
+</a>
+
+<br><br>
 
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
@@ -222,7 +261,3 @@ Optimization
 <code>ALEXANDRE MAMEDE • COMPUTER SCIENCE • 2026</code>
 
 </div>
-
-ALEXANDRE MAMEDE • COMPUTER SCIENCE • 2026
-
-</div> 
