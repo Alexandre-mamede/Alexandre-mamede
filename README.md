@@ -55,7 +55,7 @@ AI          ██████████░░░░░░░░░░  50%
 <table align="center"> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Learn Software Engineering</td> </tr> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Build real-world systems</td> </tr> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Work with databases</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Master Algorithms & Data Structures</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Explore Artificial Intelligence</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Improve Backend Development</td> </tr> </table> </div> <br> <div align="center">
   
 <div align="center">
-
+## 🏆 QUESTS COMPLETED
 <h2>🎒 INVENTORY</h2>
 
 <br>
