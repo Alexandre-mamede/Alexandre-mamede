@@ -274,7 +274,7 @@ Optimization
 ║                                                              ║
 ║                    CODE • BUILD • LEARN                      ║
 ║                                                              ║
-║                     [ GAME SAVED ✓ ]                         ║
+║                      [ GAME SAVED ✓ ]                        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 </pre>
