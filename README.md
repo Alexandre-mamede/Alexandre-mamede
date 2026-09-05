@@ -175,11 +175,15 @@ Sistema web para gerenciamento de clínica de fisioterapia.
 📋 Patient Records<br>
 💰 Financial Management
 
-<br><br>
+<br><br><br>
+
+<div align="center">
 
 <a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_RN_FISIOTERAPIA">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
+
+</div>
 
 </td>
 
@@ -207,9 +211,13 @@ Plataforma para conectar usuários a profissionais de diferentes áreas.
 
 <br><br>
 
+<div align="center">
+
 <a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_PROFESSIONAL_PLATFORM">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
+
+</div>
 
 </td>
 
@@ -237,11 +245,15 @@ Projetos envolvendo processamento digital de imagens.
 🔬 Computer Vision<br>
 🐍 Python Development
 
-<br><br>
+<br><br><br>
+
+<div align="center">
 
 <a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_IMAGE_PROCESSING">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
+
+</div>
 
 </td>
 
@@ -268,14 +280,72 @@ Projetos acadêmicos e práticos envolvendo bancos de dados.
 
 <br><br>
 
+<div align="center">
+
 <a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_DATABASE">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
+
+</div>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+<h2>🎯 CURRENT QUEST</h2>
+
+<table align="center" width="100%">
+<tr>
+
+<td align="center" width="25%">
+
+<h3>⚔️ ALGORITHMS</h3>
+
+Data Structures<br>
+Sorting<br>
+Complexity
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>⚙️ BACKEND</h3>
+
+APIs<br>
+Systems<br>
+Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🤖 AI</h3>
+
+Python<br>
+Computer Vision<br>
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🗄️ DATABASES</h3>
+
+SQL<br>
+Modeling<br>
+Optimization
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <br>
 
