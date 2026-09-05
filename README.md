@@ -173,16 +173,25 @@ Optimization
 
 <br><br>
 
+<div align="center">
+
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║                    PLAYER STATUS: ONLINE                     ║
 ║                                                              ║
-║              CODE  •  BUILD  •  LEARN                       ║
+║                  CODE • BUILD • LEARN                        ║
 ║                                                              ║
-║                    [ GAME SAVED ✓ ]                          ║
+║                     [ GAME SAVED ✓ ]                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+</pre>
+
 <br>
+
+<code>ALEXANDRE MAMEDE • COMPUTER SCIENCE • 2026</code>
+
+</div>
 
 ALEXANDRE MAMEDE • COMPUTER SCIENCE • 2026
 
