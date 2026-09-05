@@ -2,68 +2,94 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:10152A,100:6C3BFF&height=180&section=header&text=ALEXANDRE%20MAMEDE&fontSize=42&fontColor=00E5FF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%2F%2F%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=16&descColor=FFFFFF" width="100%"/>
 
-### `░▒▓ PLAYER PROFILE ▓▒░`
+<div align="center">
 
-`DEVELOPER` • `BUILDER` • `LEARNER`
+<h1>🎮 PLAYER PROFILE</h1>
+
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                      ALEXANDRE MAMEDE                        ║
+║                                                              ║
+║              DEVELOPER • BUILDER • LEARNER                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=080B12&color=101B2D"/>
-<img src="https://img.shields.io/badge/CLASS-SOFTWARE%20DEVELOPER-8B5CF6?style=for-the-badge&labelColor=080B12"/>
-<img src="https://img.shields.io/badge/REGION-BRAZIL-2563EB?style=for-the-badge&labelColor=080B12"/>
+<img src="https://img.shields.io/badge/●_ONLINE-00E5FF?style=for-the-badge&labelColor=080B12&color=101B2D"/>
+<img src="https://img.shields.io/badge/⚔_SOFTWARE_DEVELOPER-8B5CF6?style=for-the-badge&labelColor=080B12&color=101B2D"/>
+<img src="https://img.shields.io/badge/🌎_BRAZIL-2563EB?style=for-the-badge&labelColor=080B12&color=101B2D"/>
 
 </div>
 
-<br>
+<br><br>
 
 <table align="center" width="100%">
 <tr>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
+
+<div align="center">
 
 <h2>🎮 CHARACTER INFO</h2>
 
+</div>
+
 <pre>
-CLASS
-└─ Software Developer
-
-FIELD
-└─ Computer Science
-
-STATUS
-└─ ● ONLINE
-
-FOCUS
-└─ Backend
-└─ Databases
-└─ Algorithms
-└─ Artificial Intelligence
+┌──────────────────────────────────────┐
+│ CLASS                                │
+│ └─ Software Developer                │
+│                                      │
+│ FIELD                                │
+│ └─ Computer Science                  │
+│                                      │
+│ STATUS                               │
+│ └─ ● ONLINE                          │
+│                                      │
+│ MAIN FOCUS                           │
+│ ├─ Backend                           │
+│ ├─ Databases                         │
+│ ├─ Algorithms                        │
+│ └─ Artificial Intelligence            │
+└──────────────────────────────────────┘
 </pre>
 
 </td>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
+
+<div align="center">
 
 <h2>⚔ ATTRIBUTES</h2>
 
+</div>
+
 <pre>
 PROGRAMMING
-■■■■■■■■■■■■■■■■□□□□  80%
+
+████████████████░░░░
 
 BACKEND
-■■■■■■■■■■■■■■■□□□□□  75%
+
+███████████████░░░░░
 
 DATABASES
-■■■■■■■■■■■■■■■■□□□□  80%
+
+████████████████░░░░
 
 ALGORITHMS
-■■■■■■■■■■■■■■□□□□□□  70%
+
+██████████████░░░░░░
 
 WEB
-■■■■■■■■■■■■■■■□□□□□  75%
+
+███████████████░░░░░
 
 AI
-■■■■■■■■■■□□□□□□□□□□  50%
+
+██████████░░░░░░░░░░
 </pre>
 
 </td>
@@ -73,6 +99,23 @@ AI
 
 <br>
 
+<div align="center">
+
+<pre>
+╭──────────────────────────────────────────────────────────────╮
+│                         PLAYER BUILD                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  💻 PROGRAMMING     ⚙️ BACKEND       🗄️ DATABASES           │
+│                                                              │
+│  🧠 ALGORITHMS      🌐 WEB           🤖 ARTIFICIAL INTEL.   │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+</pre>
+
+</div>
+
+<br>
 <div align="center">
 📜 QUEST LOG
 <table align="center"> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Learn Software Engineering</td> </tr> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Build real-world systems</td> </tr> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Work with databases</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Master Algorithms & Data Structures</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Explore Artificial Intelligence</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Improve Backend Development</td> </tr> </table> </div> <br> <div align="center">
