@@ -53,9 +53,40 @@ AI          ██████████░░░░░░░░░░  50%
 </td> </tr> </table> <br> <div align="center">
 📜 QUEST LOG
 <table align="center"> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Learn Software Engineering</td> </tr> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Build real-world systems</td> </tr> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Work with databases</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Master Algorithms & Data Structures</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Explore Artificial Intelligence</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Improve Backend Development</td> </tr> </table> </div> <br> <div align="center">
-🎒 INVENTORY
-<img src="https://img.shields.io/badge/C-05070D?style=for-the-badge&logo=c&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Python-05070D?style=for-the-badge&logo=python&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Java-05070D?style=for-the-badge&logo=openjdk&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/JavaScript-05070D?style=for-the-badge&logo=javascript&logoColor=00E5FF"/> <br> <img src="https://img.shields.io/badge/Node.js-05070D?style=for-the-badge&logo=node.js&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Express-05070D?style=for-the-badge&logo=express&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/SQLite-05070D?style=for-the-badge&logo=sqlite&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/MySQL-05070D?style=for-the-badge&logo=mysql&logoColor=8B5CF6"/> <br> <img src="https://img.shields.io/badge/OpenCV-05070D?style=for-the-badge&logo=opencv&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/NumPy-05070D?style=for-the-badge&logo=numpy&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/Git-05070D?style=for-the-badge&logo=git&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/Linux-05070D?style=for-the-badge&logo=linux&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/VS_Code-05070D?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF"/> </div> <br> <div align="center">
-🏆 QUESTS COMPLETED
+  
+<div align="center">
+
+<h2>🎒 INVENTORY</h2>
+
+<br>
+
+<img src="https://img.shields.io/badge/C-05070D?style=for-the-badge&logo=c&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Python-05070D?style=for-the-badge&logo=python&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Java-05070D?style=for-the-badge&logo=openjdk&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/JavaScript-05070D?style=for-the-badge&logo=javascript&logoColor=00E5FF"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Node.js-05070D?style=for-the-badge&logo=node.js&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Express-05070D?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SQLite-05070D?style=for-the-badge&logo=sqlite&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/MySQL-05070D?style=for-the-badge&logo=mysql&logoColor=8B5CF6"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OpenCV-05070D?style=for-the-badge&logo=opencv&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/NumPy-05070D?style=for-the-badge&logo=numpy&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Git-05070D?style=for-the-badge&logo=git&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Linux-05070D?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS_Code-05070D?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🏆 QUESTS COMPLETED
 </div> <table align="center"> <tr> <td width="50%" valign="top">
 🏥 RN Fisioterapia
 
