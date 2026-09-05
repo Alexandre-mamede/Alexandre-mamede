@@ -143,112 +143,195 @@ AI
 
 <div align="center">
 
-## 🏆 QUESTS COMPLETED
-</div> <table align="center"> <tr> <td width="50%" valign="top">
-🏥 RN Fisioterapia
+<div align="center">
 
-Clinic Management System
+<h2>🏆 QUESTS COMPLETED</h2>
 
+</div>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏥 RN Fisioterapia</h3>
+
+<b>Clinic Management System</b>
+
+<p>
 Sistema web para gerenciamento de clínica de fisioterapia.
+</p>
 
-<br>
+<code>Node.js</code>
+<code>Express</code>
+<code>SQLite</code>
+<code>JavaScript</code>
 
-Node.js Express SQLite JavaScript
+<br><br>
 
-<br>
-
-🔐 Authentication
-👤 Patient Management
-📅 Scheduling
-📋 Patient Records
+🔐 Authentication<br>
+👤 Patient Management<br>
+📅 Scheduling<br>
+📋 Patient Records<br>
 💰 Financial Management
 
-</td> <td width="50%" valign="top">
-🧑‍💼 Professional Platform
+<br><br>
 
-Service Marketplace
+<a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_RN_FISIOTERAPIA">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧑‍💼 Professional Platform</h3>
+
+<b>Service Marketplace</b>
+
+<p>
 Plataforma para conectar usuários a profissionais de diferentes áreas.
+</p>
 
-<br>
+<code>Web</code>
+<code>Backend</code>
+<code>Database</code>
 
-Web Backend Database
+<br><br>
 
-<br>
-
-🔎 Professional Search
-⭐ Ratings
-💰 Price Information
-👤 User Management
+🔎 Professional Search<br>
+⭐ Ratings<br>
+💰 Price Information<br>
+👤 User Management<br>
 🛠️ Service Management
 
-</td> </tr> <tr> <td width="50%" valign="top">
-🖼️ Image Processing
+<br><br>
 
-Computer Vision Projects
+<a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_PROFESSIONAL_PLATFORM">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🖼️ Image Processing</h3>
+
+<b>Computer Vision Projects</b>
+
+<p>
 Projetos envolvendo processamento digital de imagens.
+</p>
 
-<br>
+<code>Python</code>
+<code>OpenCV</code>
+<code>NumPy</code>
 
-Python OpenCV NumPy
+<br><br>
 
-<br>
-
-🖼️ Image Processing
-🔬 Computer Vision
+🖼️ Image Processing<br>
+🔬 Computer Vision<br>
 🐍 Python Development
 
-</td> <td width="50%" valign="top">
-🗄️ Database Projects
+<br><br>
 
-Data Systems
+<a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_IMAGE_PROCESSING">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🗄️ Database Projects</h3>
+
+<b>Data Systems</b>
+
+<p>
 Projetos acadêmicos e práticos envolvendo bancos de dados.
+</p>
 
-<br>
+<code>MySQL</code>
+<code>SQLite</code>
+<code>SQL</code>
 
-MySQL SQLite SQL
+<br><br>
 
-<br>
-
-🔑 Keys & Constraints
-🔗 Relationships
-📊 Data Modeling
+🔑 Keys & Constraints<br>
+🔗 Relationships<br>
+📊 Data Modeling<br>
 ⚙️ SQL Operations
 
-</td> </tr> </table> <br> <div align="center">
-🎯 CURRENT QUEST
-<table align="center"> <tr> <td align="center">
-⚔️ ALGORITHMS
+<br><br>
 
-Data Structures
-Sorting
+<a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_DATABASE">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<h2>🎯 CURRENT QUEST</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+<h3>⚔️ ALGORITHMS</h3>
+
+Data Structures<br>
+Sorting<br>
 Complexity
 
-</td> <td align="center">
-⚙️ BACKEND
+</td>
 
-APIs
-Systems
+<td align="center" width="25%">
+
+<h3>⚙️ BACKEND</h3>
+
+APIs<br>
+Systems<br>
 Architecture
 
-</td> <td align="center">
-🤖 AI
+</td>
 
-Python
-Computer Vision
+<td align="center" width="25%">
+
+<h3>🤖 AI</h3>
+
+Python<br>
+Computer Vision<br>
 Automation
 
-</td> <td align="center">
-🗄️ DATABASES
+</td>
 
-SQL
-Modeling
+<td align="center" width="25%">
+
+<h3>🗄️ DATABASES</h3>
+
+SQL<br>
+Modeling<br>
 Optimization
 
-</td> </tr> </table> </div> <br> <div align="center">
-  
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
   <!-- PLAYER STATISTICS -->
 <div align="center">
 
