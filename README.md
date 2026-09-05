@@ -1,4 +1,47 @@
-## Bem-vindo(a) ao meu perfil.
+<div align="center">
+
+# 🎮 ALEXANDRE MAMEDE
+
+### `COMPUTER SCIENCE // SOFTWARE DEVELOPER`
+
+`BUILD` • `LEARN` • `CREATE`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandre-mamede)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amamedepatrocinio@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ PLAYER PROFILE
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🧑‍💻 CHARACTER
+
+```text
+NAME
+└── Alexandre Mamede
+
+CLASS
+└── Software Developer
+
+FIELD
+└── Computer Science
+
+STATUS
+└── 🟢 ONLINE
+
+CURRENT MODE
+└── LEARNING + BUILDING
 
  <div>
    <a href="https://github.com/Alexandre-mamede">
