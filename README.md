@@ -39,23 +39,17 @@ FOCUS
 └─ Artificial Intelligence
 </td> <td width="55%" valign="top">
 ⚔ ATTRIBUTES
-PROGRAMMING
-████████████████░░░░  80%
+PROGRAMMING ████████████████░░░░  80%
 
-BACKEND
-███████████████░░░░░  75%
+BACKEND     ███████████████░░░░░  75%
 
-DATABASES
-████████████████░░░░  80%
+DATABASES   ████████████████░░░░  80%
 
-ALGORITHMS
-██████████████░░░░░░  70%
+ALGORITHMS  ██████████████░░░░░░  70%
 
-WEB
-███████████████░░░░░  75%
+WEB         ███████████████░░░░░  75%
 
-AI
-██████████░░░░░░░░░░  50%
+AI          ██████████░░░░░░░░░░  50%
 </td> </tr> </table> <br> <div align="center">
 📜 QUEST LOG
 <table align="center"> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Learn Software Engineering</td> </tr> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Build real-world systems</td> </tr> <tr> <td>🟢 <b>COMPLETED</b></td> <td>Work with databases</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Master Algorithms & Data Structures</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Explore Artificial Intelligence</td> </tr> <tr> <td>🟡 <b>IN PROGRESS</b></td> <td>Improve Backend Development</td> </tr> </table> </div> <br> <div align="center">
