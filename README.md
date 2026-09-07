@@ -179,7 +179,7 @@ Sistema web para gerenciamento de clínica de fisioterapia.
 
 <div align="center">
 
-<a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_RN_FISIOTERAPIA">
+<a href="https://github.com/Alexandre-mamede/Rn-fiso">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
