@@ -213,7 +213,7 @@ Plataforma para conectar usuários a profissionais de diferentes áreas.
 
 <div align="center">
 
-<a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_PROFESSIONAL_PLATFORM">
+<a href="https://github.com/Alexandre-mamede/DemocInfo">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-05070D?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
