@@ -299,60 +299,6 @@ Projetos acadêmicos e práticos envolvendo bancos de dados.
 
 <h2>🎯 CURRENT QUEST</h2>
 
-<table align="center" width="100%">
-<tr>
-
-<td align="center" width="25%">
-
-<h3>⚔️ ALGORITHMS</h3>
-
-Data Structures<br>
-Sorting<br>
-Complexity
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>⚙️ BACKEND</h3>
-
-APIs<br>
-Systems<br>
-Architecture
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🤖 AI</h3>
-
-Python<br>
-Computer Vision<br>
-Automation
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🗄️ DATABASES</h3>
-
-SQL<br>
-Modeling<br>
-Optimization
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>🎯 CURRENT QUEST</h2>
-
 <table align="center">
 <tr>
 
